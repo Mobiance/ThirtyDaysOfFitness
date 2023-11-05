@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ThirtyDaysOfFitness</string>
+    <string name="description1">Push-ups are a fundamental bodyweight exercise that strengthens the chest, shoulders, and triceps. Begin in a plank position, lower your body by bending your elbows, and then push back up, engaging your core for stability. They\'re versatile, effective, and can be modified for various fitness levels.</string>
+    <string name="excercise1">Push Ups</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="description2">Pull-ups are an upper-body exercise that targets the back, biceps, and shoulders. Hang from a horizontal bar with an overhand grip, then pull your body upward until your chin clears the bar. It\'s an excellent bodyweight exercise for building upper body strength.</string>
+    <string name="pull_ups">Pull Ups</string>
 </resources>
